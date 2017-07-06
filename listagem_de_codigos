@@ -1,0 +1,250 @@
+<html>
+
+	
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Abel|Josefin+Sans:700" rel="stylesheet">
+		<title>Leticia Sassa AV2
+		</title>
+		<!--css style -->
+		<style type="text/css">
+		
+			html {
+				margin: 0;
+				padding: 0;
+			}
+				
+			body {
+				font-family: 'Abel';
+				font-size: 19pt;
+				background-color: #efefef;
+				padding: 10px;
+				margin: 0;
+			}
+			
+			h {
+				font-size: 15pt;
+				color: #000000;
+				text-align: center;
+				padding: 18px 0 19px 0;
+				margin: 0 0 10px 0;
+			}
+			
+			h1 span {
+				border: 10px dashed #20bcd5;
+				padding: 10px;
+			}
+			
+			p {
+				padding: 0;
+				margin: 0;
+			}
+			
+			p2 {
+				color: snow;
+				text-align: center;
+				
+				
+			}
+			
+			.img-circle {
+				border: 3px white;
+				border-radius: 50%;				
+			}
+			
+			.section {
+				background-color: #fff;
+				padding: 15px;
+				margin-bottom: 10px;
+				border-radius: 10px;
+			}
+			
+			#header {
+				background-image: url("https://68.media.tumblr.com/9bdd4c33ae882c0c5b91c93efdc2eed3/tumblr_oreu5jpcra1u1pdl8o10_540.png");
+				background-size: fill;
+			}
+			
+			#header img {
+				display: block;
+				width: 80px;
+				heigth: 80px;
+				margin: auto;
+			}
+			
+			#header p {
+				font-size: 30pt;
+				color: white;
+				padding-top: 5px;
+				margin: 0;
+				font-weight: bolt;
+				text-align: center;
+			}
+			
+			.quote {
+				font-size: 12pt;
+				text-align: rigth;
+				margin-top: 10px;
+			}
+			
+			table {
+				width: 100%;
+			}
+			
+			table, th, td {
+				border: 2px solid #cecece;
+				border-collapse: collapse;
+				text-align: center;
+				table-layout: fixed;
+			}
+			
+			.selected {
+				background-color: #f36f48;
+				font-weight: bold;
+			}
+			
+			li {
+				margin-bottom: 15px;
+				font-weight: bold;
+			}
+			
+			progress {
+				width: 70%;
+				height: 20px;
+				color: #3fb6b2;
+				background: #efefef;
+			}
+			
+			progress::-webkit-progress-bar {
+				background: #efefef;
+			}
+			
+			progress::-webkit-progress-value {
+				background: #3fb6b2;
+			}
+			
+			progress::-moz-progress-bar {
+				color: #3fb6b2;
+				background: #efefef;
+			}
+			
+			iframe, audio {
+				display: block;
+				margin: 0 auto;
+				border: 3px solid #3fb6b2;
+				
+			}
+			
+			
+			hr {
+				border: 0;
+				height: 1px;
+				background: #f36f48;
+			}
+			
+			form {
+				text-align: center;
+				margin-top: 0;
+			}
+			
+			.submit {
+				background-color: #3fb6b2;
+				padding: 12px 45px;
+				border-radius: 5px;
+				cursor: pointer;
+				color: #ffffff;
+				border: none;
+				outline: none;
+				margin: 0;
+				font-weight: bold;
+			}
+			
+			.submit:hover {
+				background-color: #43a09d;
+			}
+			
+			textarea {
+				height: 100px;
+			}
+			
+			input, textarea {
+				margin-bottom: 10px;
+				font-size: 11pt;
+				padding: 15px 10px 10px;
+				border: 1px solid #cecece;
+				background-color: #efefef;
+				color: #787575;
+				border-radius: 5px;
+				width: 70%;
+				outline: none;
+			}
+			
+			.face {
+				transform: scale(0.4);
+				margin: 0 auto;
+				display: block;
+				margin-top: -35px;
+				margin-bottom: -25px;
+			}
+			
+			#contacts img {
+				height: 50px;
+				width: 50px;
+				margin-left: 7px;
+				margin-right: 7px;
+			}
+			
+			#contacts a {
+				text-decoration: none;
+			}
+			
+			#contacts img:hover {
+				opacity: 0.8;
+			}
+			
+			#contacts {
+				text-align: center;
+			}
+			
+			.copyriht {
+				font-size: 5pt;
+				text-align: right;
+				padding-bottom: 10px;
+				color: gray;
+			}
+			
+		</style>
+		
+	</head>
+	<body>
+		
+		
+		<!-- header start -->
+		<div id="header" class="section">
+			<img alt="" class ="img-circle" class="https://68.media.tumblr.com/f45f1d3f102eee07735b7eb2046971da/tumblr_orf3ujxein1wp2i9io3_540.png">
+			<h2><p><font style= "font-family: Abel,'Josefin Sans', sans-serif; text-align: center">Leticia Sassá da Silva</p></h2>
+			<p2><font style= "font-family: Abel,'Josefin Sans', sans-serif; text-align: center"><sub><center>RA 917107748</center></sub><p2>
+				</div>
+			<!-- Header ends -->
+			
+			<!-- lista de codigos-->
+			<div class="section">
+				<h1><span> Listagem de Testes e Exercicios </span></h1>
+			
+			<p> <ul>
+				<li><h5><a href="regra_de_3.php">Calculo de Regra de 3</a></h5></li>
+				</ul>
+			</p>
+			
+			<!-- lista de codigos fim -->
+			
+			
+			
+				
+					
+			
+						
+						
+							
+							
+						
+				
+		
